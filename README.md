@@ -24,4 +24,4 @@ npm i
 npx cypress open
 ```
 
-[Ou assista o projeto rodando aqui!](/cypress/videos/flry-auto-working.mp4)
+[Ou assista o projeto rodando aqui! (Mas você vai ter que baixar o vídeo.)](/cypress/videos/flry-auto-working.mp4)
