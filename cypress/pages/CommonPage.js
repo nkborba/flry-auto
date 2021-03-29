@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 
-import HomepageElements from '../elements/HomepageElements'
+import HomepageElements from '../support/elements/HomepageElements'
 const homeElements = new HomepageElements
 const baseUrl = "https://www.fleury.com.br/"
 

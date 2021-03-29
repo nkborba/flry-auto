@@ -1,7 +1,7 @@
 /// <reference types="Cypress" />
 
-import UnitsPageElements from '../elements/UnitsPageElements'
-import UnitsPagesMap from '../staticData/UnitsPagesMap'
+import UnitsPageElements from '../support/elements/UnitsPageElements'
+import UnitsPagesMap from '../support/staticData/UnitsPagesMap'
 
 const unitsPageElements = new UnitsPageElements
 const unitsPagesMap = new UnitsPagesMap

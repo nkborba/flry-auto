@@ -1,4 +1,4 @@
-class HomepageElements {
+export default class HomepageElements {
 
     btn_title_header = "#button-title-desktop-header"
 
@@ -13,5 +13,3 @@ class HomepageElements {
         "Mais opções": ".mais-opcoes"
     }
 }
-
-export default HomepageElements

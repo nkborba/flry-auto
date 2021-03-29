@@ -1,7 +1,7 @@
 /* global Given, When, Then */
 
-import CommonPage from '../pages/CommonPage'
-import UnitsPage from '../pages/UnitsPages'
+import CommonPage from '../../pages/CommonPage'
+import UnitsPage from '../../pages/UnitsPages'
 
 const commonPage = new CommonPage
 const unitsPage = new UnitsPage
