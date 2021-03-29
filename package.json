@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cypress": "^6.8.0",
+    "cypress-cucumber-preprocessor": "^4.0.3"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/support/steps"
+  }
+}
